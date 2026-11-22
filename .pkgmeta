@@ -1,0 +1,6 @@
+package-as: GatherStats
+
+ignore:
+  - .github
+  - .pkgmeta
+  - README.md
