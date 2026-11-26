@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: GatherStats
 ## Notes: One-screen overview of ore, herbs, leather, cloth and other gathered materials on all your characters
-## Author: Per
+## Author: Kriez
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_ore_copper_01
 ## Dependencies: Syndicator
