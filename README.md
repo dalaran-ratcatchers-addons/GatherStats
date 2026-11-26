@@ -2,6 +2,9 @@
 
 GatherStats är ett World of Warcraft-tillägg som samlar en översikt över dina karaktärers material i ett enda fönster. Uppgifterna hämtas från **Syndicator** och omfattar väskor, bank och post.
 
+## Exempel
+![GatherStats – materialöversikt](images/example.png)
+
 ## Funktioner
 
 - Visar totalantal för malm, metalltackor, sten, ädelstenar, örter, läder, tyg och elementära material.
@@ -22,5 +25,3 @@ GatherStats är ett World of Warcraft-tillägg som samlar en översikt över din
 
 Skriv `/gather` eller `/gs` i chatten för att öppna eller stänga fönstret.
 
-## Exempel
-![GatherStats – materialöversikt](images/example.png)
